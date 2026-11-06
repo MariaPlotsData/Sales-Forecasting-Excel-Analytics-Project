@@ -70,7 +70,7 @@ Using raw sales data, advanced Excel formulas were applied to clean text fields,
 
 ---
 
-* **1. Mastered text manipulation (LEFT, FIND, CONCATENATE) for data cleaning.
-* **2. Implemented dynamic conditional logic (IFS, IF) for automatic data labelling.
-* **3. Created flexible summary reports using conditional statistical functions (SUMIF, COUNTIF, COUNTA).
-* **4. Structured a clean, executive-ready Excel workbook with clear data hierarchy and documentation.
+ 1. Mastered text manipulation (LEFT, FIND, CONCATENATE) for data cleaning.
+ 2. Implemented dynamic conditional logic (IFS, IF) for automatic data labelling.
+ 3. Created flexible summary reports using conditional statistical functions (SUMIF, COUNTIF, COUNTA).
+ 4. Structured a clean, executive-ready Excel workbook with clear data hierarchy and documentation.
