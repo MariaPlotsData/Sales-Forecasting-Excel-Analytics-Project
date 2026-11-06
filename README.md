@@ -1,7 +1,6 @@
 # 📊 Sales Pipeline Forecasting & Excel Analytics Project
 
-**Author:** Maria Alia Aguila  
-**Course / Program:** Data Analytics Bootcamp — Excel & Prompt Engineering Module  
+**Course / Program:** Data Analytics Bootcamp — Excel & Prompt Engineering Module by Brave Analytics
 **Tools Used:** Microsoft Excel (`IFS`, `SUMIF`, `COUNTIF`, `COUNTA`, `LEFT`, `FIND`, `CONCATENATE`, Data Cleaning, Financial Forecasting)  
 **Company Context:** HLP Manufacturing INC. (2025 Sales Performance & Forecasting)
 
